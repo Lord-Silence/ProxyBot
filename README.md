@@ -9,6 +9,7 @@ Run this command in CMD, terminal or PowerShell (if you don't already have the f
 ```
 pip install requests
 pip install discord
+pip install pillow
 ```
 1. Create a bot in discord's developer portal https://discord.com/developers.
 2. Replace "token-here" with your bots token.
@@ -21,5 +22,3 @@ pip install discord
 **Repl.it/Glitch Pinger**
 https://discord.com/api/oauth2/authorize?client_id=764524832963428362&permissions=84992&scope=bot
 
-
-**Anything that happens to your glitch project I am not responsible for**
